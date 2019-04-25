@@ -1,2 +1,2 @@
-# Sbebank-REST-API
+# Sberbank-REST-API
 Simle PHP Class for Sberbank REST API
